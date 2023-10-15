@@ -27,7 +27,7 @@ hide:
 
 ### New Contributors
 * [@sheldygg](https://github.com/sheldygg){.external-link target="_blank"} made their first contribution in [https://github.com/airtai/faststream/pull/795](https://github.com/airtai/faststream/pull/795){.external-link target="_blank"}
- 
+
 **Full Changelog**: [https://github.com/airtai/faststream/compare/0.2.1...0.2.2](https://github.com/airtai/faststream/compare/0.2.1...0.2.2){.external-link target="_blank"}
 
 ## 0.2.1
